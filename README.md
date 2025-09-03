@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DuckyDaBucky
-- 👀 I’m interested in ANYTHING
-- 🌱 I’m currently learning EVERYTHING
-- 💞️ I’m looking to collaborate on ANYTHING
-- 📫 How to reach me via: ANYWHERE
-- 😄 Pronouns: WHATEVER
-- ⚡ Fun fact: I'm going to "defeat AI."
+- 👀 I’m interested in coding and cooking
+- 🌱 I’m currently learning Java and ML
+- 💞️ I’m looking to collaborate on anything :)
+- 📫 How to reach me via: hasnainmn7@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I'm going to "cook."
