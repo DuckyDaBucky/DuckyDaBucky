@@ -4,4 +4,3 @@
 - 💞️ I’m looking to collaborate on anything :)
 - 📫 How to reach me via: hasnainmn7@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm going to "cook."
