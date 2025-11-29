@@ -107,8 +107,3 @@ From AI-driven applications to data-heavy automation, I want to continue program
   </a>
 </p>
 
----
-
-<p style="color:#12343b;"><em>Always building. Always learning.</em></p>
-
-</div>
