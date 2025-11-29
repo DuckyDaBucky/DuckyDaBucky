@@ -14,7 +14,7 @@
 <p style="color:#12343b; max-width: 600px;">
 I aim to build tools, systems, and intelligent frameworks that make complex problems simple.<br/>
 My mission is to create technology that is lean, accessible, and genuinely useful.<br/>
-From AI-driven applications to data-heavy automation, I believe that nothing can stop me from pushing the boundaries of what’s possible.
+From AI-driven applications to data-heavy automation, I want to continue programming good solutions!
 </p>
 
 ---
