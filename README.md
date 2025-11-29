@@ -3,11 +3,12 @@
 <h1 style="color: #e1b382;">Hi, I'm Hasnain 👋</h1>
 
 <strong style="color:#c89666;">AI Developer • Full-Stack Engineer • Sophomore CS Student @ UTD</strong><br/>
-<a href="https://hasnain.us" target="_blank" style="color:#2d545e;"><strong>hasnain.us</strong></a>
 
-<br/><br/>
+<a href="https://hasnain.us" target="_blank">
+  <img src="https://img.shields.io/badge/Personal%20Website-e1b382?style=for-the-badge&logoColor=12343b&labelColor=2d545e" />
+</a>
 
----
+<br/>
 
 ## <span style="color:#e1b382;">🌟 Mission Statement 🌟</span>
 
